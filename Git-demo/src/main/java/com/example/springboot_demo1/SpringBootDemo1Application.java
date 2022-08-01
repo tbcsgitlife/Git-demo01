@@ -18,7 +18,7 @@ public class SpringBootDemo1Application {
     }
     @RequestMapping("/")
     public String index(){
-        return "第二次提交";
+        return "阿萨啊啊啊啊啊啊啊啊";
     }
 
 }
